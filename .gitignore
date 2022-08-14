@@ -1,2 +1,4 @@
 node_modules/
 .vscode
+app-test.js
+notes-test.js
